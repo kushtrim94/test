@@ -130,23 +130,6 @@
 // ];
 
 // printTree($familyTree);
-<!-- Center: Logo -->
-<div class="logo mx-auto text-center">
-    <a href="<?php echo home_url(); ?>" class="font-bold" style="font-size: 1.757rem; border-bottom: 4px solid rgba(29, 53, 87, 1); border-bottom-width: 4px; padding-bottom: 5px; color: #000000; letter-spacing: 5px; display: inline-block; width: 100%; position: relative;">
-        STARLABS NEWS
-        <span style="position: absolute; bottom: -6px; left: 0; width: 90%; border-bottom: 2px solid red;"></span>
-    </a>
-</div>
-
-
-
 ?>
-
-       
-    
-
-
-
-
 
  
